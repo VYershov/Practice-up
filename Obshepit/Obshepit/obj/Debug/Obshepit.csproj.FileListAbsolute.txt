@@ -1,0 +1,44 @@
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\bin\Debug\Obshepit.exe.config
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\bin\Debug\Obshepit.exe
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\bin\Debug\Obshepit.pdb
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.csprojAssemblyReference.cache
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.capcha.resources
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Login.resources
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.MainMenu.resources
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Properties.Resources.resources
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.csproj.GenerateResource.cache
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.csproj.CoreCompileInputs.cache
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.exe
+E:\ПОЛИТЕХ\УП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.pdb
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\bin\Debug\Obshepit.exe.config
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\bin\Debug\Obshepit.exe
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\bin\Debug\Obshepit.pdb
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.csprojAssemblyReference.cache
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Dishes.resources
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Login.resources
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.MainMenu.resources
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Products.resources
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Properties.Resources.resources
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.csproj.GenerateResource.cache
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.csproj.CoreCompileInputs.cache
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.exe
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.pdb
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Preparation.resources
+E:\УчебкаП 02.01\Задание 5\Obshepit\Obshepit\obj\Debug\Obshepit.Recipe.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.csproj.AssemblyReference.cache
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Composition_of_dish.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Dishes.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Login.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.MainMenu.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Preparation.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Products.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Properties.Resources.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Recipe.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.Types_of_dishes.resources
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.csproj.GenerateResource.cache
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.csproj.CoreCompileInputs.cache
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.exe
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\obj\Debug\Obshepit.pdb
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\bin\Debug\Obshepit.exe.config
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\bin\Debug\Obshepit.exe
+D:\ДЗ\флешки\УчебкаП 02.01\дом\Obshepit\Obshepit\bin\Debug\Obshepit.pdb
